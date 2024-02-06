@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.page{
+	width:1100px;
+}
+.f1{
+	width:200px;
+}
+.f2{
+	width:600px;
+}
+.imageContainer{
+	height:100%;
+	width:1500px;
+}
